@@ -1,0 +1,20 @@
+Top variables influencing fertilizer recommendations:
+Soil_pH                       0.083676
+Humidity(%)                   0.015300
+Soil_Moisture(%)             -0.002757
+Temperature(C)               -0.007206
+Irrigation_Recommended(mm)   -0.014122
+
+Crop Type with Highest Average Soil Moisture:
+Crop_Type
+Wheat    47.354055
+Name: Soil_Moisture(%)
+
+Crops with Average Temp > 30�C (Irrigation Adjustment Needed):
+-Beans: 32.31�C
+- Lettuce: 32.58�C
+- Maize: 32.43�C
+- Tomatoes: 32.40�C
+- Wheat: 32.53�C
+
+Irrigation Recommendation: Increase irrigation frequency for these crops to compensate for higher evapotranspiration.
